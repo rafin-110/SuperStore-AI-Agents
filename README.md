@@ -2,7 +2,7 @@
 
 A multi-agent machine learning system for e-commerce analytics, built with 5 specialized agents.
 
-## 🏗️ Project Structure
+##  Project Structure
 
 | Agent | Type | Model(s) | Folder |
 |-------|------|----------|--------|
@@ -12,7 +12,7 @@ A multi-agent machine learning system for e-commerce analytics, built with 5 spe
 | **Agent 4** – Price-Gap Analysis | USL | Custom Pricing Model | `price_gap_agent/` |
 | **Agent 5** – Global EDA | EDA | Exploratory Data Analysis | `golbal eda/` |
 
-## 📊 Agent Details
+##  Agent Details
 
 ### Agent 1 · Customer Segmentation (USL)
 - **Input**: Customer ID, InvoiceDate, Quantity, Price
